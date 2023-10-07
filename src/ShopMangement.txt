@@ -1,0 +1,2 @@
+P1,Pen,5,2,Study
+R1,Rin,10,12,Soap
